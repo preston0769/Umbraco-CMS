@@ -40,3 +40,5 @@ If you want to contribute back to Umbraco you should check out our [guide to con
 Another way you can contribute to Umbraco is by providing issue reports. For information on how to submit an issue report refer to our [online guide for reporting issues](http://our.umbraco.org/contribute/report-an-issue-or-request-a-feature).
 
 To view existing issues, please visit [http://issues.umbraco.org](http://issues.umbraco.org).
+
+Comment by Preston Zhang
